@@ -1,2 +1,2 @@
 # gis
-it is a repository for GIS projects 
+GIS Projets 
