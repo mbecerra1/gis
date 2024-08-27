@@ -2,7 +2,7 @@
 GIS Projets 🐯
 ## **Hi there 👋, my name is Milagros Becerra**
 
-[![LinkedIn Badge](https://www.linkedin.com/in/milagros-becerra-a85807106/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/milagros-becerra-a85807106/)
 [![Google Scholar Badge]( )
 
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
