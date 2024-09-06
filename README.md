@@ -23,4 +23,4 @@
 - Medium: [@geomili](https://medium.com/@mbecerra_17225)
 
 ## Size site
-[![LinkedIn Badge(https://img.shields.io/github/repo-size/mbecerra1/gis)
+[![LinkedIn Badge](https://img.shields.io/github/repo-size/mbecerra1/gis)
