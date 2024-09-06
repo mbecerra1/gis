@@ -2,7 +2,7 @@
 # GIS Projects 🐯
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/milagros-becerra-a85807106/)
-[![LinkedIn Badge](https://saasrank.es/wp-content/uploads/2020/06/cropped-SaaS-Rank-Logo.png.webp)](https://milagrosbecerra.weebly.com/resume.html)
+[![LinkedIn Badge](https://saasrank.es/wp-content/uploads/2022/10/Weebly-logo.jpg)](https://milagrosbecerra.weebly.com/resume.html)
 
 #### **Environmental geographer who likes GIS 🗺️, Remote Sensing 🛰️, and earth science 🌎 ** 
 + 🎓 I am a second year grad student in MS GIS Geography at [Clark University](https://www.clarku.edu/)
