@@ -10,8 +10,11 @@
 + 🌎 I got a degree in Geography and Environment at [Pontificie Catholic University of Peru](https://www.pucp.edu.pe/)
 
 + 🌱 Research Interests: Remote Sensing, Land Use and Land Cover Change, Climate Change, Terrestrial Environments, Geospatial Analysis, Conservation, Flood Management, and Agriculture
-
+  
+## **Skills**
 + 🔭 Languages and Tools: R, Python, JavaScript, HTML, CSS, Google Earth Engine, ArcGIS Pro, IDRISI TerrSet
+
+![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
 
 
 [![LinkedIn Badge](https://img.shields.io/github/repo-size/mbecerra1/gis)
