@@ -2,9 +2,9 @@
 # GIS Projects 🐯
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/milagros-becerra-a85807106/)
-[![LinkedIn Badge](https://saasrank.es/wp-content/uploads/2022/10/Weebly-logo.jpg)](https://milagrosbecerra.weebly.com/resume.html)
+[![LinkedIn Badge](Portafolio](https://milagrosbecerra.weebly.com/resume.html)
 
-##**Environmental geographer who likes GIS 🗺️, Remote Sensing 🛰️, and earth science 🌎 ** 
+####**Environmental geographer who likes GIS 🗺️, Remote Sensing 🛰️, and earth science 🌎 ** 
 + 🎓 I am a second year grad student in MS GIS Geography at [Clark University](https://www.clarku.edu/)
 
 + 🌎 I got a degree in Geography and Environment at [Pontificie Catholic University of Peru](https://www.pucp.edu.pe/)
@@ -16,5 +16,12 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
 
+## Get in touch
+### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
+- Email: [mbecerra@clarku.edu](mailto:mbecerra@clarku.edu)<br />
+- Linkedin: [Milagros Becerra](https://www.linkedin.com/in/milagros-becerra-a85807106/)<br />
+- Twitter: [@MilagrosBecerra](https://twitter.com/Milagro90800313)<br />
+- Medium: [@geomili](https://medium.com/@mbecerra_17225)
 
+## Size site
 [![LinkedIn Badge](https://img.shields.io/github/repo-size/mbecerra1/gis)
