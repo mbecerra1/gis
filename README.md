@@ -1,4 +1,4 @@
-## **Welcome to my GitHub 🐯!**
+## **Welcome to my GitHub!**
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/milagros-becerra-a85807106/)
 [Portfolio](https://milagrosbecerra.weebly.com/resume.html)
@@ -23,4 +23,4 @@
 - Medium: [@geomili](https://medium.com/@mbecerra_17225)
 
 ## Size site
-[![LinkedIn Badge](https://img.shields.io/github/repo-size/mbecerra1/gis)
+[![LinkedIn Badge(https://img.shields.io/github/repo-size/mbecerra1/gis)
