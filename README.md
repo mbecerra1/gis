@@ -13,7 +13,7 @@
 ## **Skills**
 + 🔭 Languages and Tools: R, Python, JavaScript, HTML, CSS, Google Earth Engine, ArcGIS Pro, IDRISI TerrSet
 
-![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
+![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css,mysql)
 
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
